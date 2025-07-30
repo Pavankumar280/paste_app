@@ -1,7 +1,7 @@
 # React
 
 This template provides a minimal setup for building a React application using Vite. It includes Hot Module Replacement (HMR) for fast refresh, Tailwind CSS for utility-first styling, and ESLint for code linting.
-Live Linkk : https://paste-app-pink-gamma.vercel.app/
+Live Link : https://paste-app-pink-gamma.vercel.app/
 
 ## Features
 - **Vite**: Ultra-fast development and build tooling.
